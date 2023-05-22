@@ -36,3 +36,6 @@ Download/
 #Ignore files from MonoDevelop
 *.pidb
 *.userprefs
+
+# JetBrains Rider IDE workspace files
+.idea
